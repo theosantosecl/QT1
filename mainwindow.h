@@ -19,4 +19,5 @@ private:
     Ui::MainWindow *ui;
 };
 
+/* Juste pour la modif*/
 #endif // MAINWINDOW_H
